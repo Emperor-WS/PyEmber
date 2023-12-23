@@ -4,7 +4,7 @@
 
 I chose the name **ember** because I thought its fun and because an ember is smaller than a torch xD
 
-<h1> Key Features: </h1>
+# Key Features:
 
 **Extensive Documentation & Code Comments:** I have tried my best to make the codebase highly documented and commented, making complex concepts more easy to understand for beginners.
 
@@ -12,23 +12,23 @@ I chose the name **ember** because I thought its fun and because an ember is sma
 
 **Solid Foundation for Building Frameworks:** Understanding the design principles and implementation details behind PyTorch will prepare you to have deeper understanding of deep learning and to build your own frameworks in the future if you want.
 
-<h1> How to install? </h1>
+# How to install?
 
 Unfortunately the only way to install the framework currently is downloading it directly from github and start getting your hands dirty with it.
 
-<h1> Requirements </h1>
+# Requirements
 
-numpy
+- numpy
 
-cupy
+- cupy
 
-pickle
+- pickle
 
-json 
+- json 
 
-time 
+- time 
 
-<h1> Work To Be Done: </h1>
+# Work To Be Done:
 
 **1- Simplified Installation:** Streamline the installation process to make PyEmber even more accessible to beginners.
 
@@ -48,7 +48,7 @@ time
 
 and more to be added.
 
-<h1> Note: </h1>
+# Note:
 The framework is very new and I'm creating it alone so some bugs may be found so please open an issue to report any bugs or issues.
 
 **And always keep your thirst for knowledge burning bright as an Ember!!**
