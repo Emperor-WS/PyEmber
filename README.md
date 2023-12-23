@@ -30,21 +30,21 @@ Unfortunately the only way to install the framework currently is downloading it 
 
 # Work To Be Done:
 
-**1- Simplified Installation:** Streamline the installation process to make PyEmber even more accessible to beginners.
+**1. Simplified Installation:** Streamline the installation process to make PyEmber even more accessible to beginners.
 
-**2- CUDA & cuDNN Integration:** Transition from CuPy to native CUDA and cuDNN for enhanced performance and wider hardware compatibility.
+**2. CUDA & cuDNN Integration:** Transition from CuPy to native CUDA and cuDNN for enhanced performance and wider hardware compatibility.
 
-**3- Code Refactoring:** Continuously improve the code quality and maintainability for a smoother learning experience.
+**3. Code Refactoring:** Continuously improve the code quality and maintainability for a smoother learning experience.
 
-**4- Documentation Enhancements:** Refine existing documentation and add new sections to address specific learning needs.
+**4. Documentation Enhancements:** Refine existing documentation and add new sections to address specific learning needs.
 
-**5- Neural Network Expansion:** Introduce more layers and functionalities to the NN module, opening up possibilities for more complex architectures and greater versatility in model design.
+**5. Neural Network Expansion:** Introduce more layers and functionalities to the NN module, opening up possibilities for more complex architectures and greater versatility in model design.
 
-**6- Multi Processing Dataloader:** Implementing Multi Processing Dataloaders to to boost data handling efficiency and speed.
+**6. Multi Processing Dataloader:** Implementing Multi Processing Dataloaders to to boost data handling efficiency and speed.
 
-**7- Performance Optimization:** Exploring techniques to enhance PyEmber's overall speed, resource usage and the framework's efficiency.
+**7. Performance Optimization:** Exploring techniques to enhance PyEmber's overall speed, resource usage and the framework's efficiency.
 
-**8- Thorough Testing and Debugging:** Ensuring robustness and reliability through comprehensive testing and bug-fixing.
+**8. Thorough Testing and Debugging:** Ensuring robustness and reliability through comprehensive testing and bug-fixing.
 
 and more to be added.
 
