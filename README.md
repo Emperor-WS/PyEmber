@@ -1,6 +1,6 @@
 # PyEmber
 
-**PyEmber** is an educational framework built on **PyTorch**, designed to empower beginner deep learning enthusiasts with a deep understanding of how a framework like PyTorch works, the concepts behind building their own and igniting their deep learning journey.
+**PyEmber** is an educational framework based on **PyTorch**, designed to empower beginner deep learning enthusiasts with a deep understanding of how a framework like PyTorch works, the concepts behind building their own and igniting their deep learning journey.
 
 I chose the name **ember** because I thought its fun and because an ember is smaller than a torch xD
 
